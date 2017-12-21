@@ -687,7 +687,7 @@
       var offset = _getOffset(container)
       return {
         x: container.scrollLeft + offset.left,
-        y: container.scrollTop + offset.top
+        y: container.scrollTop + offset.top + offset.top
       }
     } else {
       // Otherwise, default to the window object’s scroll values.
