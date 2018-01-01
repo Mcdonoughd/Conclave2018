@@ -8,3 +8,5 @@ Have Schedule link go to a pdf (get better looking schedule?): Priority 3
 Add Social Media Links: Priority 3
 Double check Links: Priority 4
 Double check Mobile: Priority 4
+Remove Unneeded Dependencies: Priority 5
+Remove non minified files: Priority 5
