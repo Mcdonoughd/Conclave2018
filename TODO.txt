@@ -1,4 +1,5 @@
 Slight Change Color Scheme: Priority 1
+Preload background image: Priority 1
 Add Workshop Info: Priority 2
 Add Hotel info: Priority 3
 Have Registration Packet Link go to a pdf: Priority 3
