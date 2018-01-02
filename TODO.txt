@@ -1,11 +1,10 @@
 Slight Change Color Scheme: Priority 1
 Add Workshop Info: Priority 2
-Add Leads Info: Priority 2
-Add Movies to Fellowship: Priority 2
 Add Hotel info: Priority 3
 Have Registration Packet Link go to a pdf: Priority 3
-Have Schedule link go to a pdf (get better looking schedule?): Priority 3
+Get better looking schedule?: Priority 3
 Add Social Media Links: Priority 3
+
 Double check Links: Priority 4
 Double check Mobile: Priority 4
 Remove Unneeded Dependencies: Priority 5
