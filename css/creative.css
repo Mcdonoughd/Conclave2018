@@ -31,7 +31,7 @@ h1,h2,h3,h4,h5,h6{
 	font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 .bg-primary{
-	background-color:#CFB53B!important;
+	background-color:#f5b315!important;
 }
 .bg-dark{
 	background-color:#212529!important;
@@ -137,8 +137,7 @@ body{
 	}
 }
 header.masthead{
-	width:100%;
-  	height:100%;
+  	min-height:800px;
 	padding-top:10rem;
 	padding-bottom:calc(10rem - 56px);
 	background-image:url(../img/header.jpg);
@@ -319,9 +318,9 @@ footer ul li a.active,footer ul li a:active,footer ul li a:focus,footer ul li a:
 	text-decoration:none;
 }
 .bg-primary{
-	background:#fdcc52;
-	background:-webkit-linear-gradient(#fdcc52,#fdc539);
-	background:linear-gradient(#fdcc52,#fdc539);
+	background:#f5b315;
+	background:-webkit-linear-gradient(#f5b315,#fdc539);
+	background:linear-gradient(#f5b315,#fdc539);
 }
 .text-primary{
 	color:#fdcc52;
