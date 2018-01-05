@@ -1,13 +1,6 @@
 Slight Change Color Scheme???: Priority 1
-Add Hotel info: Priority 1
-Have Registration Packet Link go to a pdf: Priority 1
-Add Social Media Links: Priority 2
-Schedule pdf?: Priority 3
-
-
 
 Test live when done:
 Double check Links: Priority 1
 Double check Mobile: Priority 1
-Remove Unneeded Dependencies: Priority 1
 
